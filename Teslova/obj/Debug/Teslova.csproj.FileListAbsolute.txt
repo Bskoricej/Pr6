@@ -1,0 +1,16 @@
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\bin\Debug\Teslova.exe.config
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\bin\Debug\Teslova.exe
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\bin\Debug\Teslova.pdb
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\obj\Debug\Teslova.csproj.AssemblyReference.cache
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\obj\Debug\Teslova.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\obj\Debug\MainWindow.g.cs
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\obj\Debug\App.g.cs
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\obj\Debug\Teslova_MarkupCompile.cache
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\obj\Debug\Teslova_MarkupCompile.lref
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\obj\Debug\MainWindow.baml
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\obj\Debug\Teslova.g.resources
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\obj\Debug\Teslova.Properties.Resources.resources
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\obj\Debug\Teslova.csproj.GenerateResource.cache
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\obj\Debug\Teslova.csproj.CoreCompileInputs.cache
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\obj\Debug\Teslova.exe
+C:\Users\307-11\Documents\Теслова Дарья\Teslova\obj\Debug\Teslova.pdb
